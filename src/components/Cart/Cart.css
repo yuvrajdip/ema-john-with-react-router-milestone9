@@ -1,0 +1,17 @@
+.cart{
+    position: sticky;
+    top: 0;
+    padding: 30px 20px;
+}
+
+.clear-cart{
+    background-color: lightcoral;
+    border-radius: 10px;
+    color: white;
+    font-weight: bolder;
+    font-size: 20px;
+    border: none;
+    padding: 10px;
+    width: 100%;
+    cursor: pointer;
+}
